@@ -1,16 +1,10 @@
-\#Инструменты
+# Инструменты
 
+Мы рекомендуем утилиту [https://etcher.io](https://etcher.io "Etcher") для записи образов на SD карточку.
 
+Можно также воспользоваться утилитой [https://sourceforge.net/projects/win32diskimager](https://sourceforge.net/projects/win32diskimager "Win32 Disk Imager").
 
-Мы рекомендуем утилиту \[Etcher\]\(https://etcher.io\) для записи образов на SD карточку.
-
-Можно также воспользоваться утилитой \[Win32 Disk Imager\]\(https://sourceforge.net/projects/win32diskimager/\).
-
-
-
-\#Процесс
-
-
+# Процесс
 
 TODO: описать со скриншотами.
 
