@@ -1,9 +1,9 @@
 # Summary
 
 * [BeeToo.Controller](beetoo-controller/README.md)
-   * [Релизы / Скачать](beetoo-controller/releases.md)
-      * [Запись образа](beetoo-controller/howto-burn.md.md)
-   * [Установка](beetoo-controller/install.md)
+    * [Релизы / Скачать](beetoo-controller/releases.md)
+    * [Установка](beetoo-controller/install.md)
+    * [Запись образа для Raspberry Pi](beetoo-controller/howto-burn.md.md)
     
 * [EverBee](everbee/README.md)
     * [Topic1](everbee/README.md)
