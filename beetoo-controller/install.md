@@ -1,3 +1,3 @@
-[Запись образа для Raspberry Pi](beetoo-controller/howto-burn.md)
+[Запись образа для Raspberry Pi](howto-burn.md)
 
 TODO: описать другие методы установки.
