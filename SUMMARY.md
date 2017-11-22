@@ -6,6 +6,7 @@
 - [Примеры применения](beetoo-controller/appliance-example.md)
 - [Релизы / Скачать](beetoo-controller/releases.md)
 - [Установка](beetoo-controller/install.md)
+- [Запись образа](beetoo-controller/howto-burn.md)
 - [Мониторинг](beetoo-controller/monitoring.md)
 - [Обновление](beetoo-controller/upgrade.md)
 
