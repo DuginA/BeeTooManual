@@ -8,8 +8,10 @@
 - [Установка](beetoo-controller/install.md)
 - [Мониторинг](beetoo-controller/monitoring.md)
 - [Обновление](beetoo-controller/upgrade.md)
+
 ##EverBee
 - [Что такое EverBee](everbee/README.md)
+
 ## BeeToo iRidium
 - [BeeToo iRidium](beetoo-iridium/README.md)
 - [Интерфейс](beetoo-iridium/iface/README.md)
