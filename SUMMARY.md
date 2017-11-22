@@ -15,4 +15,5 @@
 ## BeeToo iRidium
 - [BeeToo iRidium](beetoo-iridium/README.md)
 - [Интерфейс](beetoo-iridium/iface/README.md)
-- [iRidium Script API libraries](beetoo-iridium/isa/README.md)
+- [iRidium Script API libraries (BeeToo ISA)](beetoo-iridium/isa/README.md)
+- [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
