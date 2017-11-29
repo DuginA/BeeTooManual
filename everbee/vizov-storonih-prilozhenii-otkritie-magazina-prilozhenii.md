@@ -1,10 +1,22 @@
-```
-Вызов приложения и открытие магазина приложений на странице приложения
-```
+# Открыть стороннее приложение или магазин приложений \(AppStore, Google.Play\)
+
+Вызов приложения и открытие магазина приложений на странице приложения осуществляется...
+
+## window.plugins.launcher 
+
+бла
+
+## window.plugins.market
+
+бла
+
+## Package id
 
 Чтобы найти package id...
 
-[http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html](http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html)
+Подробнее можно прочитать в статье: [http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html](http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html)
+
+## Пример
 
 ```js
 if ($ionicPlatform.is('ios')) {
