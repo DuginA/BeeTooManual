@@ -15,6 +15,7 @@
 ## EverBee
 
 * [Что такое EverBee](everbee/README.md)
+* [Быстрый старт](everbee/bistrii-start.md)
 * [Вызов стороних приложений / открытие магазина приложений](everbee/vizov-storonih-prilozhenii-otkritie-magazina-prilozhenii.md)
 
 ## BeeToo iRidium
