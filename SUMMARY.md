@@ -25,10 +25,10 @@
 * [Выбор проекта](everbee/vibor-proekta.md)
 * [Совместное использование](everbee/sovmestnoe-ispolzovanie.md)
 * [Вызов стороних приложений / открытие магазина приложений](everbee/vizov-storonih-prilozhenii-otkritie-magazina-prilozhenii.md)
-* Библиотеки EverBee
+* [Библиотеки EverBee](everbee/biblioteki-everbee.md)
 * [Где используется](everbee/gde-ispolzuetsya.md)
-* Варианты интерфейса
-* Как добавлять новые блоки
+* [Варианты интерфейса](everbee/varianti-interfeisa.md)
+* [Как добавлять новые блоки](everbee/kak-dobavlyat-novie-bloki.md)
 * [Атрибуты кнопок](everbee/atributi-knopok.md)
 * [Типовые ошибки](everbee/tipovie-oshibki.md)
 * [FAQ](everbee/faq.md)
@@ -45,6 +45,6 @@
 * [Запуск и подключение](beetooplayer/test.md)
 * [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
 * [Подключение EverBee к BeeToo.Player](podklyuchenie-everbee-k-beetooplayer.md)
-* [Типовые ошибки player](tipovie-oshibki-player.md)
+* [Типовые ошибки player](beetooplayer/tipovie-oshibki.md)
 * [FAQ](faq.md)
 

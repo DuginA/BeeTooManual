@@ -1,2 +1,0 @@
-[/beetoo](/beetoo)
-
