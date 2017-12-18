@@ -11,6 +11,7 @@
 * [Запись образа](beetoo-controller/howto-burn.md)
 * [Мониторинг](beetoo-controller/monitoring.md)
 * [Обновление](beetoo-controller/upgrade.md)
+* test
 
 ## EverBee
 
@@ -24,4 +25,8 @@
 * [Интерфейс](beetoo-iridium/iface/README.md)
 * [iRidium Script API libraries \(BeeToo ISA\)](beetoo-iridium/isa/README.md)
 * [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
+
+## Test
+
+
 
