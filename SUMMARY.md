@@ -29,7 +29,7 @@
 * [Где используется](everbee/gde-ispolzuetsya.md)
 * Варианты интерфейса
 * Как добавлять новые блоки
-* Атрибуты кнопок
+* [Атрибуты кнопок](everbee/atributi-knopok.md)
 * [Типовые ошибки](everbee/tipovie-oshibki.md)
 * [FAQ](everbee/faq.md)
 
@@ -45,6 +45,5 @@
 * [Запуск и подключение](beetooplayer/test.md)
 * [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
 * [Подключение EverBee к BeeToo.Player](podklyuchenie-everbee-k-beetooplayer.md)
-* [Типовые ошибки](everbee/tipovie-oshibki.md)
 * [FAQ](faq.md)
 
