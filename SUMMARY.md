@@ -45,6 +45,6 @@
 * Запуск и подключение.
 * Возможности BeeToo.Player
 * Подключение EverBee к BeeToo.Player
-* Типовые ошибки
+* [Типовые ошибки](beetooplayer/tipovie-oshibki.md)
 * [FAQ](beetooplayer/faq.md)
 
