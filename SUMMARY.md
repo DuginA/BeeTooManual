@@ -40,9 +40,3 @@
 * [iRidium Script API libraries \(BeeToo ISA\)](beetoo-iridium/isa/README.md)
 * [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
 
-## BeeToo.Player
-
-* [Запуск и подключение](beetooplayer/test.md)
-* [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
-* [Подключение EverBee к BeeToo.Player](podklyuchenie-everbee-k-beetooplayer.md)
-
