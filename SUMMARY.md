@@ -2,21 +2,36 @@
 
 ## BeeToo.Controller
 
-* [Introduction](README.md)
-* [Что такое BeeToo.Controller](beetoo-controller/README.md)
+* [Что такое BeeToo.Controller](README.md)
 * [Быстрый старт](beetoo-controller/start-guide.md)
 * [Примеры применения](beetoo-controller/appliance-example.md)
 * [Релизы / Скачать](beetoo-controller/releases.md)
 * [Установка](beetoo-controller/install.md)
 * [Запись образа](beetoo-controller/howto-burn.md)
+* [Программирование](programmirovanie.md)
 * [Мониторинг](beetoo-controller/monitoring.md)
 * [Обновление](beetoo-controller/upgrade.md)
+* [Типовые ошибки](tipovie-oshibki.md)
+* [FAQ](faq.md)
 
 ## EverBee
 
 * [Что такое EverBee](everbee/README.md)
-* [Быстрый старт](everbee/bistrii-start.md)
+* [Аутентификация пользователя](everbee/autentifikatsiya-polzovatelya.md)
+* [Загрузка проекта на сайт](everbee/zagruzka-proekta-na-sait.md)
+* [Обновление проекта на сайте](everbee/obnovlenie-proekta-na-saite.md)
+* [Установка EverBee](everbee/ustanovka-everbee.md)
+* [Запуск](everbee/bistrii-start.md)
+* [Выбор проекта](everbee/vibor-proekta.md)
+* [Совместное использование](everbee/sovmestnoe-ispolzovanie.md)
 * [Вызов стороних приложений / открытие магазина приложений](everbee/vizov-storonih-prilozhenii-otkritie-magazina-prilozhenii.md)
+* Библиотеки EverBee
+* [Где используется](everbee/gde-ispolzuetsya.md)
+* Варианты интерфейса
+* Как добавлять новые блоки
+* Атрибуты кнопок
+* [Типовые ошибки](everbee/tipovie-oshibki.md)
+* [FAQ](everbee/faq.md)
 
 ## BeeToo iRidium
 
@@ -25,9 +40,11 @@
 * [iRidium Script API libraries \(BeeToo ISA\)](beetoo-iridium/isa/README.md)
 * [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
 
-## Test
+## BeeToo.Player
 
-* test
-
-
+* [Запуск и подключение](beetooplayer/test.md)
+* [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
+* [Подключение EverBee к BeeToo.Player](podklyuchenie-everbee-k-beetooplayer.md)
+* [Типовые ошибки](everbee/tipovie-oshibki.md)
+* [FAQ](faq.md)
 
