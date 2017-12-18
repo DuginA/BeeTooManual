@@ -46,8 +46,5 @@
 * Возможности BeeToo.Player
 * Подключение EverBee к BeeToo.Player
 * Типовые ошибки
-
-
-
-
+* [FAQ](beetooplayer/faq.md)
 
