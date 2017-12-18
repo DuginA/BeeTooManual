@@ -42,9 +42,9 @@
 
 ## BeeToo.Player
 
-* Запуск и подключение.
-* Возможности BeeToo.Player
-* Подключение EverBee к BeeToo.Player
+* [Запуск и подключение.](beetooplayer/zapusk-i-podklyuchenie.md)
+* [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
+* [Подключение EverBee к BeeToo.Player](beetooplayer/podklyuchenie-everbee-k-beetooplayer.md)
 * [Типовые ошибки](beetooplayer/tipovie-oshibki.md)
 * [FAQ](beetooplayer/faq.md)
 
