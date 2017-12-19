@@ -26,6 +26,14 @@
 
 Подробнее можно прочитать в статье: [http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html](http://niranjankaru.blogspot.ru/2014/02/get-package-name-android-app-app-id-ios.html)
 
+## URI-адрес приложений под IOS
+
+Сторонние приложения запускаются прямо из JS-кода:
+
+```window.plugins.launcher.launch({uri: 'muscicast://'});```
+
+У некоторых приложений нет зарегистрированного ``customURLScheme (`CFBundleURLSchemes` в `*-Info.plist`) ``и такие приложения нельзя вызвать по uri.
+
 ## Пример
 
 ```js
