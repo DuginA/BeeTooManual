@@ -30,10 +30,10 @@
 
 ```js
 if ($ionicPlatform.is('ios')) {
-    window.plugins.launcher.canLaunch({packageName: '950377168'}, function () {
-        window.plugins.launcher.launch({packageName: '950377168'});
+    window.plugins.launcher.canLaunch({packageName: 'id950377168'}, function () {
+        window.plugins.launcher.launch({packageName: 'id950377168'});
     }, function () {
-        window.plugins.market.open('950377168');
+        window.plugins.market.open('id950377168');
     });
 } else if ($ionicPlatform.is('android')) {
     window.plugins.launcher.canLaunch({packageName: 'org.decaflame.app'}, function () {
