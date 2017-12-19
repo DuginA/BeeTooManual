@@ -42,12 +42,12 @@
 
 ## BeeToo.Player
 
-* [Запуск и подключение](beetooplayer/zapusk-i-podklyuchenie.md)
-* [Возможности BeeToo.Player](beetooplayer/vozmozhnosti-beetooplayer.md)
-* [Релизы / Скачать](beetooplayer/relizi-skachat.md)
-* [Подключение EverBee к BeeToo.Player](beetooplayer/podklyuchenie-everbee-k-beetooplayer.md)
-* [Типовые ошибки](beetooplayer/tipovie-oshibki.md)
-* [FAQ](beetooplayer/faq.md)
+* [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
+* [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
+* [Релизы / Скачать](beetoo-player/relizi-skachat.md)
+* [Подключение EverBee к BeeToo.Player](beetoo-player/podklyuchenie-everbee-k-beetooplayer.md)
+* [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
+* [FAQ](beetoo-player/faq.md)
 
 
 
