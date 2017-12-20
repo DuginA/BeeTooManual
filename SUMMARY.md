@@ -49,5 +49,11 @@
 * [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
 * [FAQ](beetoo-player/faq.md)
 
+## BeeToo.Installation
+
+* Информация по адресам и паролям
+* Установка и запуск BeeToo.Controller 
+* Установка и запуск EverBee 
+
 
 
