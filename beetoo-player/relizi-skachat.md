@@ -1,6 +1,35 @@
 This document lists releases for the GitBook Editor. We recommend always using the latest stable version for the best experience.  
 Read how to burn here: [howto-burn.md](howto-burn.md)
 
+# 
+
+# 0.4.1 alfa
+
+21 Декабря 2017
+
+### Файлы
+
+Выберите свою платформу
+
+* Odroid C2 —   
+  Внимание: нужна eMMC карточка на 16**GB** и более
+
+* windows — ~~Download~~
+
+* linux — ~~Download~~
+
+* mac — ~~Download~~
+
+### Изменения
+
+* Disabled Core Dumps
+
+* Watchdog Enabled
+
+
+
+---
+
 # 0.4.0 beta
 
 20 Декабря 2017
@@ -15,6 +44,7 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 * windows — ~~Download~~
 
 * linux — ~~Download~~
+
 * mac — ~~Download~~
 
 ### Изменения
@@ -23,7 +53,7 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 
 * Версия на Kodi 17.6
 
-* Поддержка HiFi Shield2
+* ~~Поддержка HiFi Shield2~~
 
 ---
 
@@ -48,6 +78,7 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 * Release Note of Ubuntu 16.04 LTS
 
 * Первая стабильная версия на Kodi 16.1
+
 * Поддержка HiFi Shield+
 
 
