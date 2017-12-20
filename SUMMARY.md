@@ -51,9 +51,7 @@
 
 ## BeeToo.Installation
 
-* Информация по адресам и паролям
+* [Информация по адресам и паролям](beetooinstallation/informatsiya-po-adresam-i-parolyam.md)
 * Установка и запуск BeeToo.Controller 
-* Установка и запуск EverBee 
-
-
+* [Установка и запуск EverBee ](beetooinstallation/ustanovka-i-zapusk-everbee.md)
 
