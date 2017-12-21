@@ -5,13 +5,13 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 
 # 0.4.1 alfa
 
-21 Декабря 2017
+22 Декабря 2017
 
 ### Файлы
 
 Выберите свою платформу
 
-* Odroid C2 —   
+* Odroid C2 —  
   Внимание: нужна eMMC карточка на 16**GB** и более
 
 * windows — ~~Download~~
@@ -24,11 +24,9 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 
 * Disabled Core Dumps
 
-* Watchdog Enabled
+* ~~Поддержка HiFi Shield2~~
 
-
-
----
+* ~~Watchdog Enabled~~
 
 # 0.4.0 beta
 
@@ -52,8 +50,6 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 * Плагины IVI, Megogo, Youtube \(beta\)
 
 * Версия на Kodi 17.6
-
-* ~~Поддержка HiFi Shield2~~
 
 ---
 
