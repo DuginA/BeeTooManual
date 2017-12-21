@@ -33,13 +33,6 @@
 * [Типовые ошибки](everbee/tipovie-oshibki.md)
 * [FAQ](everbee/faq.md)
 
-## BeeToo iRidium
-
-* [BeeToo iRidium](beetoo-iridium/README.md)
-* [Интерфейс](beetoo-iridium/iface/README.md)
-* [iRidium Script API libraries \(BeeToo ISA\)](beetoo-iridium/isa/README.md)
-* [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
-
 ## BeeToo.Player
 
 * [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
@@ -51,7 +44,21 @@
 
 ## BeeToo.Installation
 
-* [Информация по адресам и паролям](beetooinstallation/informatsiya-po-adresam-i-parolyam.md)
-* Установка и запуск BeeToo.Controller 
-* [Установка и запуск EverBee ](beetooinstallation/ustanovka-i-zapusk-everbee.md)
+## BeeToo.iRidium
 
+* [BeeToo iRidium](beetoo-iridium/README.md)
+* [Интерфейс](beetoo-iridium/iface/README.md)
+* [iRidium Script API libraries \(BeeToo ISA\)](beetoo-iridium/isa/README.md)
+* [BeeToo ISA: начало](beetoo-iridium/isa/start-guide.md)
+
+## BeeToo инсталлятор
+
+* [Пусконаладка: общие принципы](installer/commissioning/README.md)
+* [Пусконаладка: разработка flow (программирование контроллера)](installer/commissioning/flow-development.md)
+* [Пусконаладка: разработка интерфейса](installer/commissioning/interface-development.md)
+* [Пусконаладка: первый выезд на объект, запуск контроллер](installer/commissioning/controller.md)
+* [Пусконаладка: второй выезд, запуск интерфейса](installer/commissioning/interface.md)
+* [Пусконаладка: третий выезд, сдача](installer/commissioning/hand-over-the-project.md)
+* [Пусконаладка: тех.поддержка](installer/commissioning/technical-support.md)
+* [Разное: Образы SD карты](installer/sdcard-images.md)
+* [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
