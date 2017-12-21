@@ -25,5 +25,10 @@
 * read native / NativeScript приложение
 * и так далее
 
+Что более важно, в файле описания описания метаданных приложения можно прочитать о характерных особенностях приложения, например, Custom URL scheme:
+
+* [iOs Custom URL introduction](https://developer.apple.com/library/content/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007899-CH1-SW1)
+* [Android Custom URL introduction](https://developer.android.com/training/basics/intents/sending.html?hl=ru#Build)
+
 
 
