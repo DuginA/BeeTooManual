@@ -5,7 +5,7 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 
 # 0.4.1 alfa
 
-22 Декабря 2017
+26 Декабря 2017
 
 ### Файлы
 
