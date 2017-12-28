@@ -53,7 +53,7 @@
 
 * [Пусконаладка: общие принципы](installer/commissioning/README.md)
 * [Пусконаладка: разработка flow \(программирование контроллера\)](installer/commissioning/flow-development.md)
-* Пусконаладка: подготовка BeeToo.Controller
+* [Пусконаладка: подготовка BeeToo.Controller](installer/commissioning/puskonaladka-podgotovka-beetoocontroller.md)
 * [Пусконаладка: разработка интерфейса](installer/commissioning/interface-development.md)
 * [Пусконаладка: первый выезд на объект, запуск контроллер](installer/commissioning/controller.md)
 * [Пусконаладка: второй выезд, запуск интерфейса](installer/commissioning/interface.md)
@@ -62,6 +62,4 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
-
-
 
