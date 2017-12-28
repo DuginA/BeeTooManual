@@ -1,4 +1,4 @@
-# Name
+# Изменить имя BeeToo.Controller
 
 ## NGrok
 
@@ -20,5 +20,7 @@ and change the name
 
 ## Keymetricks
 
-`pm2 link 58id1ow56geal8v x7yeqee5t8pdlcl [171228_change_me]`
+`sudo -u beetoo pm2 link 58id1ow56geal8v x7yeqee5t8pdlcl [171228_change_me]`
+
+`sudo -u beetoo pm2 save`
 
