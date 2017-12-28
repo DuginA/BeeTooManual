@@ -12,7 +12,7 @@
 * [Мониторинг](beetoo-controller/monitoring.md)
 * [Обновление](beetoo-controller/upgrade.md)
 * [Типовые ошибки](tipovie-oshibki.md)
-* [FAQ](faq.md)
+* [FAQ](/beetoo-player/faq.md)
 
 ## EverBee
 
@@ -62,4 +62,6 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
+
+
 
