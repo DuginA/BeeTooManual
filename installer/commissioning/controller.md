@@ -16,7 +16,7 @@ and change the name
 
 ## PM2
 
-`sudo -u pm2 set pm2-slack:username 171228_change_me`
+`sudo -u beetoo pm2 set pm2-slack:username 171228_change_me`
 
 ## Keymetricks
 
