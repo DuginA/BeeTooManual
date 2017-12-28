@@ -12,7 +12,7 @@
 * [Мониторинг](beetoo-controller/monitoring.md)
 * [Обновление](beetoo-controller/upgrade.md)
 * [Типовые ошибки](tipovie-oshibki.md)
-* [FAQ](/beetoo-player/faq.md)
+* [FAQ](/beetoo-controller/faq.md)
 
 ## EverBee
 
