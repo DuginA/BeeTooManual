@@ -55,6 +55,7 @@
 
 * [Пусконаладка: общие принципы](installer/commissioning/README.md)
 * [Пусконаладка: разработка flow \(программирование контроллера\)](installer/commissioning/flow-development.md)
+  * Пусконаладка: подготовка BeeToo.Controller
 * [Пусконаладка: разработка интерфейса](installer/commissioning/interface-development.md)
 * [Пусконаладка: первый выезд на объект, запуск контроллер](installer/commissioning/controller.md)
 * [Пусконаладка: второй выезд, запуск интерфейса](installer/commissioning/interface.md)
