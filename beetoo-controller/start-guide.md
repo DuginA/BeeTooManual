@@ -1,6 +1,6 @@
 # Быстрый старт
 
-После того, как был сделан образ карточки можно начинать пользоватья BeeToo.Controller. Для этого вставьте карточку с подготовленным образом в Raspberry pi.
+После того, как был сделан образ карточки можно начинать пользоватья BeeToo.Controller. Для этого вставьте карточку с подготовленным образом в Raspberry Pi.
 
 Подключите контроллер к сети питания и сети Ethernet.
 
@@ -8,13 +8,19 @@
 
 Убедитесь, что они моргают.
 
-![](/assets/Power.png)
+<p align="center">
+![Raspberry Pi power 1](/assets/Power.png)
+</p>
 
-![](/assets/Power1.png)
+<p align="center">
+![Raspberry Pi power 2](/assets/Power1.png)
+</p>
 
 При подключении котнроллера к сети Ethernet должны моргать лампочки LAN-порта.
 
-![](/assets/LAN link.png)
+<p align="center">
+![Raspberry Pi LAN](/assets/LAN link.png)
+</p>
 
 Чтобы начать пользоваться Контроллером необходимо войти в его интерфейс в браузере.
 
@@ -22,9 +28,13 @@
 
 Откроется диалоговое окно ввода логина и пароля. Их данные запросить у команды BeeToo.
 
-![](/assets/login and password.png)
+<p align="center">
+![BeeToo.Controller login form](/assets/login and password.png)
+</p>
 
 После ввода логина и пароля откроется сам интерфейс контроллера.
 
-![](/assets/UI of BeeTooController.png)
+<p align="center">
+![UI of BeeToo.Controller](/assets/UI of BeeTooController.png)
+</p>
 
