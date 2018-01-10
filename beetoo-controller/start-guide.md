@@ -2,6 +2,8 @@
 
 После того, как был сделан образ карточки можно начинать пользоватья BeeToo.Controller. Для этого вставьте карточку с подготовленным образом в [Raspberry Pi](https://www.raspberrypi.org/).
 
+Как записать образ на карточку смотреть [здесь](https://www.gitbook.com/book/beetoo/beetoo-help-center/edit#/edit/master/beetoo-controller/howto-burn.md?_k=w7a4k2).
+
 Подключите контроллер к сети питания и сети Ethernet.
 
 На [Raspberry pi](https://www.raspberrypi.org/) должны мигать красная и зеленая лампочка - красная свидетельствует о наличии питания, зеленая - о работе операционной системы.
@@ -28,7 +30,7 @@
 
 ![UI of BeeToo.Controller](/assets/UI of BeeTooController.png)
 
-Логика программирования контроллера построена технологии [Node-RED](/nodered.org). 
+Логика программирования контроллера построена технологии [Node-RED](/nodered.org).
 
 В основе ее положен принцип формирования логики на основе использования так называемых нод и связей между ними.
 
