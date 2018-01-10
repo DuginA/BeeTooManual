@@ -12,7 +12,7 @@
 
 ![Raspberry Pi power 2](/assets/Power1.png)
 
-При подключении котнроллера к сети Ethernet должны моргать лампочки LAN-порта.
+При подключении контроллера к сети Ethernet должны моргать лампочки LAN-порта.
 
 ![Raspberry Pi LAN](/assets/LAN link.png)
 
@@ -27,3 +27,4 @@
 После ввода логина и пароля откроется сам интерфейс контроллера.
 
 ![UI of BeeToo.Controller](/assets/UI of BeeTooController.png)
+
