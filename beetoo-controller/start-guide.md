@@ -26,5 +26,5 @@
 
 После ввода логина и пароля откроется сам интерфейс контроллера.
 
-![](/assets/BeeTooController UI.png)
+![](/assets/UI of BeeTooController.png)
 
