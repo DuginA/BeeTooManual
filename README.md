@@ -1,6 +1,6 @@
 # Что такое BeeToo.Controller
 
-BeeToo.Controller - это программный продукт для контроля и управления систем автоматизации и IoT.
+BeeToo.Controller - это программный продукт для контроля и управления системами автоматизации и IoT.
 
 Контроллер запускается на [Raspberry Pi](https://www.raspberrypi.org/) с установленной на ней карточкой, на которой записан образ контроллера \(как записать образ смотреть [здесь](https://www.gitbook.com/book/beetoo/beetoo-help-center/edit#/edit/master/beetoo-controller/howto-burn.md?_k=w7a4k2)\).
 
