@@ -35,6 +35,7 @@
 
 ## BeeToo.Player
 
+* [Что такое BeeToo.Player](beetoo-player/chto-takoe-beetooplayer.md)
 * [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
 * [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
 * [Релизы / Скачать](beetoo-player/relizi-skachat.md)
@@ -62,6 +63,4 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
-
-
 
