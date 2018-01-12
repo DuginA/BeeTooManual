@@ -1,17 +1,10 @@
 # Summary
 
-## BeeToo.Player
 
-* [Что такое BeeToo.Player](beetoo-player/chto-takoe-beetooplayer.md)
-* [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
-* [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
-* [Релизы / Скачать](beetoo-player/relizi-skachat.md)
-* [Подключение EverBee к BeeToo.Player](beetoo-player/podklyuchenie-everbee-k-beetooplayer.md)
-* [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
-* [FAQ](beetoo-player/faq.md)
 
 ## BeeToo.Controller
 
+* Что такое BeeTooController
 * [Быстрый старт](beetoo-controller/start-guide.md)
 * [Примеры применения](beetoo-controller/appliance-example.md)
 * [Релизы / Скачать](beetoo-controller/releases.md)
@@ -22,6 +15,16 @@
 * [Обновление](beetoo-controller/upgrade.md)
 * [Типовые ошибки](tipovie-oshibki.md)
 * [FAQ](/beetoo-controller/faq.md)
+
+## BeeToo.Player
+
+* [Что такое BeeToo.Player](beetoo-player/chto-takoe-beetooplayer.md)
+* [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
+* [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
+* [Релизы / Скачать](beetoo-player/relizi-skachat.md)
+* [Подключение EverBee к BeeToo.Player](beetoo-player/podklyuchenie-everbee-k-beetooplayer.md)
+* [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
+* [FAQ](beetoo-player/faq.md)
 
 ## EverBee
 
