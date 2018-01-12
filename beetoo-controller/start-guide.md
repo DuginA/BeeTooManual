@@ -1,6 +1,6 @@
 # Быстрый старт
 
-После того, как был сделан образ карточки можно начинать пользоватья BeeToo.Controller. \(как записать образ на карточку смотреть [здесь](https://www.gitbook.com/book/beetoo/beetoo-help-center/edit#/edit/master/beetoo-controller/howto-burn.md?_k=w7a4k2)\).
+После того, как был сделан образ карточки можно начинать пользоватья BeeToo.Controller. \(как записать образ на карточку смотреть [здесь](https://help.beetoo.ru/beetoo-controller/howto-burn.html)\).
 
 Для этого вставьте карточку с подготовленным образом в [Raspberry Pi](https://www.raspberrypi.org/).
 
