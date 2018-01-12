@@ -1,8 +1,6 @@
 # Summary
 
-## Решения BeeToo
-
-* [Что такое BeeToo](resheniya-beetoo/chto-takoe-beetoo.md)
+## 
 
 ## BeeToo.Controller
 
@@ -67,4 +65,6 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
+
+
 
