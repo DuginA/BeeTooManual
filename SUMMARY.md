@@ -12,7 +12,6 @@
 
 ## BeeToo.Controller
 
-* [Что такое BeeToo.Controller](README.md)
 * [Быстрый старт](beetoo-controller/start-guide.md)
 * [Примеры применения](beetoo-controller/appliance-example.md)
 * [Релизы / Скачать](beetoo-controller/releases.md)
@@ -63,4 +62,6 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
+
+
 
