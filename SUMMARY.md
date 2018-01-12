@@ -10,6 +10,7 @@
 * [Установка](beetoo-controller/install.md)
 * [Запись образа](beetoo-controller/howto-burn.md)
 * [Программирование](programmirovanie.md)
+* [Интерфейс управления](interfeis-upravleniya.md)
 * [Мониторинг](beetoo-controller/monitoring.md)
 * [Обновление](beetoo-controller/upgrade.md)
 * [Типовые ошибки](tipovie-oshibki.md)
@@ -64,6 +65,4 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
-
-
 
