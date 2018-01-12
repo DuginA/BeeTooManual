@@ -1,6 +1,14 @@
 # Summary
 
-## 
+## BeeToo.Player
+
+* [Что такое BeeToo.Player](beetoo-player/chto-takoe-beetooplayer.md)
+* [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
+* [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
+* [Релизы / Скачать](beetoo-player/relizi-skachat.md)
+* [Подключение EverBee к BeeToo.Player](beetoo-player/podklyuchenie-everbee-k-beetooplayer.md)
+* [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
+* [FAQ](beetoo-player/faq.md)
 
 ## BeeToo.Controller
 
@@ -15,16 +23,6 @@
 * [Обновление](beetoo-controller/upgrade.md)
 * [Типовые ошибки](tipovie-oshibki.md)
 * [FAQ](/beetoo-controller/faq.md)
-
-## BeeToo.Player
-
-* [Что такое BeeToo.Player](beetoo-player/chto-takoe-beetooplayer.md)
-* [Запуск и подключение](beetoo-player/zapusk-i-podklyuchenie.md)
-* [Возможности BeeToo.Player](beetoo-player/vozmozhnosti-beetooplayer.md)
-* [Релизы / Скачать](beetoo-player/relizi-skachat.md)
-* [Подключение EverBee к BeeToo.Player](beetoo-player/podklyuchenie-everbee-k-beetooplayer.md)
-* [Типовые ошибки](beetoo-player/tipovie-oshibki.md)
-* [FAQ](beetoo-player/faq.md)
 
 ## EverBee
 
@@ -65,6 +63,4 @@
 * [Разное: Образы SD карты](installer/sdcard-images.md)
 * [Разное: APK/IPA файлы сторонних приложений](installer/apr-ipa-third-party-apps.md)
 * [Разное: Логи Asterisk](installer/commissioning/raznoe-logi-asterisk.md)
-
-
 
