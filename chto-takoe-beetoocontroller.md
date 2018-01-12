@@ -8,13 +8,15 @@ BeeToo.Controller - это программный продукт для конт
 
 Поддерживаемое контроллером оборудование:
 
-KNX
+* KNX
 
-HDL
+* HDL
 
-AMX
+* AMX
 
-Crestron
+* Crestron
 
-Modbus и др.
+* Modbus и др.
+
+
 
