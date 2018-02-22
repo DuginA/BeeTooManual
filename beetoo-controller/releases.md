@@ -3,6 +3,32 @@ Read how to burn here: [howto-burn.md](howto-burn.md)
 
 Hint: release names taken from [the list of Russian showplaces](https://www.tourprom.ru/country/russia/all_country_attraction/?page=1).
 
+# 0.6.0 — Red Square
+
+22 Февраля 2018
+
+### Файлы
+
+Выберите свою платформу
+
+* raspberry pi 2/3 \(arm7\) — [Download](https://yadi.sk/d/m4r8rV7z3Sguy4)
+
+  ```
+    Внимание: нужна microSD карточка на **4GB** и более
+  ```
+
+* windows — ~~Download~~
+
+* linux — ~~Download~~
+
+* mac — ~~Download~~
+
+### Изменения
+
+* Node-RED updated to v0.18.3
+* node-red-contrib-snmp-advanced added
+* node-red-contrib-firebase added
+
 # 0.5.3 — Moscow Kremlin
 
 10 Января 2018
